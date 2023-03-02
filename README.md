@@ -11,3 +11,4 @@ This project utilizes Python and machine learning techniques to provide song rec
 - Recommendation the song to the user ( random song from the same cluster)
 - Play the input song et recommended song using embedded music player.
 
+![result](https://github.com/yenle2092/Project_6_Spotify_Song_recommender/raw/main/Capture.JPG)
